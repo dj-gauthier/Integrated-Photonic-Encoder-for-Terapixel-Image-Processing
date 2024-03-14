@@ -1,4 +1,5 @@
-# Integrated-Photonic-Encoder-for-Terapixel-Image-Processing [![DOI](https://zenodo.org/badge/716313661.svg)](https://zenodo.org/doi/10.5281/zenodo.10819457)  
+# Integrated-Photonic-Encoder-for-Terapixel-Image-Processing  
+[![DOI](https://zenodo.org/badge/716313661.svg)](https://zenodo.org/doi/10.5281/zenodo.10819457)  
 Offical repository for "[Wang, Xiao, Brandon Redding, Nicholas Karl, Christopher Long, Zheyuan Zhu, Shuo Pang, David Brady, and Raktim Sarma. "Integrated Photonic Encoder for Terapixel Image Processing." arXiv preprint arXiv:2306.04554 (2023)](https://arxiv.org/abs/2306.04554)"  
 
 ## Jupyter Notebooks
